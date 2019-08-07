@@ -1,2 +1,4 @@
 # times-table-pattern
-Times Table Patterns
+Multiplication table patterns
+
+Explanation is here https://crysanthus.blogspot.com/2019/07/python-fun-multiplication-table-points.html
